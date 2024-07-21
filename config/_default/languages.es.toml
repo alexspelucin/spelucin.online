@@ -1,0 +1,25 @@
+languageCode = "es-PE"
+languageName = "Español (Perú)"
+languageDirection = "ltr"
+weight = 2
+
+title = "Alex Spelucín"
+copyright = "&copy; 2024 Alex Spelucín."
+
+[params]
+  dateFormat = "2 January 2006"
+
+  mainSections = ["blog"]
+  description = "Sitio personal de Alex Spelucín, analista digital y de datos peruano."
+
+[params.author]
+  name = "Alex Spelucín"
+  image = "img/alex-spelucin-analista-digital.jpg"
+  headline = "Analista digital y de datos"
+  bio = "Solo un tipo que se pasa mucho tiempo en Google Analytics, Looker Studio y Google Sheets. Programador Aficionado. Padre orgulloso y esposo enamorado."
+  links = [
+    { email = "spelucinalex@gmail.com" },
+    { linkedin = "https://www.linkedin.com/in/alexspelucin/" },
+    { github = "https://github.com/alexspelucin" },
+    { mastodon = "https://mstdn.social/@spelucin" },
+  ]
