@@ -1,7 +1,7 @@
 ---
 title: "Contacta conmigo"
 date: 2024-07-20
-description: ""
+description: "Separa un tiempo en mi calendario usando esta página."
 showAuthor: false
 showPagination: false
 showReadingTime: false
