@@ -15,6 +15,10 @@ enableImageLazyLoading = true
 enableImageWebp = false
 enableQuicklink = true
 
+[gtm]
+  id = "GTM-KRX9Q4J3"
+  datalayer = "basic"
+
 # robots = ""
 fingerprintAlgorithm = "sha256"
 
@@ -66,8 +70,9 @@ fingerprintAlgorithm = "sha256"
 [taxonomy]
   showTermCount = true
 
-[fathomAnalytics]
-  # site = "ABC12345"
+[tagManager]
+  id = "GTM-KRX9Q4J3"
+  datalayer = "basic"
 
 [verification]
   # google = ""
